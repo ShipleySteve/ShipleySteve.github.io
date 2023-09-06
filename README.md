@@ -1,4 +1,4 @@
-# Tobey's website for Project N
+# Tobey's website for Project N.
 
 ![amiresponsive](docs/amiresponsive.PNG)
 
